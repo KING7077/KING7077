@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**KING7077/KING7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **KING7077/KING7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a discord bot, named Vladimir, its in about 96 servers, not verified yet
 - 🌱 I’m currently learning Python, though I do have some experiance in html, css and some javascript
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
     - Made a url tracker, that shows where shortened urls move to, before actually going to the site (https://url-track.herokuapp.com)
 
 - 💀 Pronouns: He/him
- -->
+
