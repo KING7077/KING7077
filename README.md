@@ -4,6 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
+- 💀 Pronouns: He/him
 - 🔭 I’m currently working on a discord bot, named Vladimir, its in about 96 servers, not verified yet
 - 🌱 I’m currently learning Python, though I do have some experiance in html, css and some javascript
 - 😂 I just usually make stupid websites, some for supporting my discord bot, some, just to code, and think that I'm doing something good
@@ -11,6 +12,4 @@
     - Made a discord bot that currently in almost 100 servers (Invite link:https://dsc.gg/vladimir)
     - Made a dashboard(sorta) for my discord bot (https://holypinion.herokuapp.com)
     - Made a url tracker, that shows where shortened urls move to, before actually going to the site (https://url-track.herokuapp.com)
-
-- 💀 Pronouns: He/him
-
+    - Most of these projects are still in development
