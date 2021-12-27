@@ -5,7 +5,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 💀 Pronouns: He/him
-- 🔭 I’m currently working on a discord bot, named Vladimir, its 100 servers, not verified yet
+- 🔭 I’m currently working on a discord bot, named Vladimir, its in 100 servers, not verified yet
 - 🌱 I’m currently learning Python, though I do have some experiance in html, css and some javascript
 - 😂 I just usually make stupid websites, some for supporting my discord bot, some, just to code, and think that I'm doing something good
 - 😉 Until now, my accomplishments:
